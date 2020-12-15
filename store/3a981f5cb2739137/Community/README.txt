@@ -8,6 +8,6 @@ If there are any problems, dm me.
 
 1. Place this theme's folder into your asset reposity in /store/3a981f5cb2739137/ (if you host asset server someplace else)
 If you use wrapper offline, just place it in /wrapper-ofline/server/store/3a981f5cb2739137/
-2. Place the Community XML file into the _THEMES folder
-3. In themelist.xml, add [<theme id="Community" name="Community Library" cc_theme_id="Community"/>] to your xml file. (If you want headgear, Remove the cc_theme_id variable).
+2. Place the CommLib.xml file into the _THEMES folder
+3. In themelist.xml, add [<theme id="CommLib" name="Community Library" cc_theme_id="CommLib"/>] to your xml file. (If you want headgear, Remove the cc_theme_id variable).
 4. You should be good to go at this point, if there are any prolbems let me know
